@@ -22,6 +22,7 @@ Divirta-se explorando!
 #### Orientadores e Voluntários
 - Emanuel Santana
 - Marcia Santana
+- [Felipe Louzas](https://github.com/felipe-louzas)
 - Thassio Matsuda
 - Gustavo Prado Ramos
 
@@ -70,7 +71,7 @@ Esta seção descreve como você pode se juntar ao projeto e ser reconhecido com
 
        ```bash
        git add README.md
-       git commit -m "Adicionando [Seu Nome] como integrante"
+       git commit -m "docs: adicionando [Seu Nome] como integrante"
        git push origin main
        ```
 
