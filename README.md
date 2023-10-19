@@ -27,6 +27,7 @@ Divirta-se explorando!
 - Gustavo Prado Ramos
 
 #### Alunos
+ - [Flavia Rosa](https://github.com/FlavRose)
  - [Coloque seu nome aqui](https://github.com/seu-usuario)
  - [Coloque seu nome aqui](https://github.com/seu-usuario)
 
